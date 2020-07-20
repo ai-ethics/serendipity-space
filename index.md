@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to the MAIEI Serendipity Space! 
 
-You can use the [editor on GitHub](https://github.com/ai-ethics/serendipity-space/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+--- 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![people-image](https://images.unsplash.com/photo-1515187029135-18ee286d815b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80)
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Starting on July 23, 2020 we are launching a space for unstructured, free-wheeling conversations with the MAIEI Staff and AI Ethics community at large to talk about whatever is on your mind in terms of building responsible AI systems. We will be talking about research, news, academia, industry, policy, and anything else that you have on your mind. This is a place for human connection in distanced times - we look forward to having you join us!
 
-```markdown
-Syntax highlighted code block
+This will be a *30 minutes session* from 12:15 pm ET to 12:45 pm ET so bring your lunch (or tea/coffee)! 
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ai-ethics/serendipity-space/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Register [here](https://zoom.us/meeting/register/tJMsdeyrqjspHdYRr1pBQO2uTOgKD4rqgUI_) to get started!
